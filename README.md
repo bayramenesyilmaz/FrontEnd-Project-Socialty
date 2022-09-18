@@ -1,3 +1,17 @@
+# Junior Frontend Developer Project Sociality
+
+![socialty](./readme/sociality.gif)
+
+![ss1](./readme/ss1.png)
+
+![ss2](./readme/ss2.png)
+
+![ss3](./readme/ss3.png)
+
+![ss4](./readme/ss4.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
