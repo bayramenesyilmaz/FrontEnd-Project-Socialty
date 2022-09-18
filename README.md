@@ -1,5 +1,7 @@
 # Junior Frontend Developer Project Sociality
 
+## Demo https://bayramenesyilmaz.github.io/FrontEnd-Project-Socialty/
+
 ![socialty](./readme/sociality.gif)
 
 ![ss1](./readme/ss1.png)
